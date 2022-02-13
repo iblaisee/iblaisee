@@ -4,4 +4,4 @@ Very little coding experience
 
 Self teaching C++ and Java 
 
-Bilingual: English, Irish, Japanese 
+Bilingual: English, Irish, Japanese 🇮🇪🇯🇵
